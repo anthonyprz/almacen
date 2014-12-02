@@ -2,7 +2,7 @@ public class Distribuidor {
 
 	private String nombre;
 	private String cif;
-	private Direccion dirección;
+	private Direccion direccion;
 	private Contacto personaContacto;
 
 
@@ -13,8 +13,8 @@ public class Distribuidor {
 	public String getCif (){
 		return this.cif;
 	}
-	public Direccion getDirección(){
-		return this.dirección;
+	public Direccion getDireccion(){
+		return this.direccion;
 	}
 	public Contacto getPersonaContacto (){
 		return this.personaContacto;
@@ -26,8 +26,8 @@ public class Distribuidor {
 	public void setCif (String Cif){
 		this.cif = cif;
 	}
-	public void setDirección (Direccion dirección){
-		this.dirección = dirección;
+	public void setDireccion (Direccion direccion){
+		this.direccion = direccion;
 	}
 	public void setPersonaContacto (Contacto personaContacto){
 		this.personaContacto = personaContacto;
