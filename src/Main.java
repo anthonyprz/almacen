@@ -64,7 +64,7 @@ public class Main{
 			Contacto contact = new Contacto();
 			
 			System.out.println("\nProveedor nº: " + (i + 1));
-			System.out.println("*************************************************");
+			System.out.println("<><><><><><><><><><><><><><><><><><><><>");
 			System.out.println("Nombre: " + (distribuidores.get(i).getNombre()));
 			System.out.println("Cif: " + (distribuidores.get(i).getCif()));
 			
