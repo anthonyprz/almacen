@@ -23,7 +23,7 @@ public class Distribuidor {
 	public void setNombre(String nombre){
 		this.nombre = nombre;
 	}
-	public void setCif (String Cif){
+	public void setCif (String cif){
 		this.cif = cif;
 	}
 	public void setDireccion (Direccion direccion){
