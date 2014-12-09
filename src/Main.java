@@ -149,7 +149,7 @@ public class Main{
 
 			System.out.println("Lechuga nº" + (m + 1));
 
-			System.out.println("*************************************************");
+			System.out.println("<><><><><><><><><><><><><><><><><><><><>");
 
 			System.out.println("Tipo de lechuga: "+(lechugas.get(m).getTipoLechuga()));
 
@@ -255,7 +255,7 @@ public class Main{
 
 			System.out.println("manzana nº" + (m + 1));
 
-			System.out.println("*************************************************");
+			System.out.println("<><><><><><><><><><><><><><><><><><><><>");
 
 			System.out.println("Tipo de manzana: "+(manzanas.get(m).getTipoManzana()));
 
@@ -357,7 +357,7 @@ public class Main{
 
 			System.out.println("leche nº" + (m + 1));
 
-			System.out.println("*************************************************");
+			System.out.println("<><><><><><><><><><><><><><><><><><><><>");
 
 			System.out.println("Tipo de leche: "+(leches.get(m).getTipo()));
 
