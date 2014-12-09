@@ -38,7 +38,7 @@ public class Main{
 				int entero = Integer.parseInt(campos2[1]);
 				direccion.setCodigoPostal(entero);
 				direccion.setCalle(campos2[2]);
-				entero = Integer.parseInt(campos2[4]);
+				entero = Integer.parseInt(campos2[3]);
 				direccion.setNumero(entero);
 	
 				distribuidor.setDireccion(direccion);
